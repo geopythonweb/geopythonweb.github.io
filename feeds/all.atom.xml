@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>GeoPython</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2017-11-15T00:00:00+08:00</updated><entry><title>安装指南</title><link href="/an-zhuang-zhi-nan.html" rel="alternate"></link><published>2017-11-15T00:00:00+08:00</published><updated>2017-11-15T00:00:00+08:00</updated><author><name>CycleUsyer</name></author><id>tag:None,2017-11-15:/an-zhuang-zhi-nan.html</id><summary type="html">&lt;h2&gt;安装 GeoPython&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>GeoPython</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2017-11-15T00:00:00+08:00</updated><entry><title>About</title><link href="/about.html" rel="alternate"></link><published>2017-11-15T00:00:00+08:00</published><updated>2017-11-15T00:00:00+08:00</updated><author><name>CycleUsyer</name></author><id>tag:None,2017-11-15:/about.html</id><summary type="html">&lt;h1&gt;Welcome to GeoPython&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://bbs.geopython.com/"&gt;BBS 论坛&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;GeoPython is an application based on Python and designed as a solution for geology related daily work. &lt;strong&gt;It can run on alomost all mainstream operating systems&lt;/strong&gt;, such as Windows 7 SP1, Windows 8, Windows 10, macOS Sierra, macOS High Sierra, Ubuntu Linux, Debian Linux …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Welcome to GeoPython&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://bbs.geopython.com/"&gt;BBS 论坛&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;GeoPython is an application based on Python and designed as a solution for geology related daily work. &lt;strong&gt;It can run on alomost all mainstream operating systems&lt;/strong&gt;, such as Windows 7 SP1, Windows 8, Windows 10, macOS Sierra, macOS High Sierra, Ubuntu Linux, Debian Linux, Fedora Linux, and alomost all other widely used desktop platforms.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GeoPython doesn't rely on any other software&lt;/strong&gt;, such as MS Excel or CorelDraw, it can directly transport your data into the plot as vector graphic files and the calculation results into data sheets such as Xlsx or CSV files.&lt;/p&gt;
+&lt;p&gt;It is a &lt;strong&gt;free software&lt;/strong&gt;: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.&lt;/p&gt;
+&lt;p&gt;GeoPython contains both traditional routines and newly developed methods。&lt;/p&gt;
+&lt;h2&gt;简介&lt;/h2&gt;
+&lt;p&gt;GeoPython 是一个基于 Python 实现的开源应用，针对的是地质学研究中的日常用途。由于使用了 Python，天生跨平台天赋加持，所以几乎能运行于所有主流操作系统，比如 Windows 7 SP1, Windows 8, Windows 10, macOS Sierra, macOS High Sierra, Ubuntu Linux, Debian Linux, Fedora Linux 等等几乎全部主流的桌面操作系统。&lt;/p&gt;
+&lt;p&gt;GeoPython 不需依赖任何其他软件，不像 GeoKit 那样依赖特定版本的 32bit 的 Office，也不像 CGDK 那样需要依赖 CorelDRAW 的安装，单独有 GeoPython 一个，就可以实现从原始数据到出矢量图，以及导出各种计算的结果为 Xlsx 或者 CSV 这种表格文件。&lt;/p&gt;
+&lt;p&gt;GeoPython 是一个自由软件:您可以根据自由软件基金会发布的GNU通用公共许可证的条款重新发布或者对其进行修改，但必须也基于同样的 GPLV3（GNU通用公共许可证第三版 ） ，或者更新版本的 GNU General Public License。&lt;/p&gt;
+&lt;p&gt;GeoPython 包含了一些常用的传统方法，也实现了一些近年来新诞生的研究成果。&lt;/p&gt;
+&lt;h1&gt;捐助支持&lt;/h1&gt;
+&lt;p&gt;如果你希望支持 GeoPython 的开发，可以扫描下面的二维码进行捐助。
+&lt;img alt="" src="https://raw.githubusercontent.com/chinageology/GeoPython/master/img/WeChatQrCode.png"&gt;&lt;/p&gt;</content><category term="Doc"></category><category term="English"></category><category term="Chinese"></category></entry><entry><title>安装指南</title><link href="/an-zhuang-zhi-nan.html" rel="alternate"></link><published>2017-11-15T00:00:00+08:00</published><updated>2017-11-15T00:00:00+08:00</updated><author><name>CycleUsyer</name></author><id>tag:None,2017-11-15:/an-zhuang-zhi-nan.html</id><summary type="html">&lt;h2&gt;安装 GeoPython&lt;/h2&gt;
 &lt;p&gt;GeoPython  有两种使用方法，可以作为独立的程序运行，也可以作为 Python 下的一个模块（module）来在 Python 解释器下调用。&lt;/p&gt;
 &lt;h2&gt;作为独立程序使用 GeoPython&lt;/h2&gt;
 &lt;p&gt;打包好的可执行文件，目前支持 Windows 和 macOS 两种平台。&lt;/p&gt;
@@ -443,24 +460,7 @@ In the Rose Map function, all data in one data files can be treated as a single 
 &lt;/table&gt;
 &lt;h1&gt;捐助支持&lt;/h1&gt;
 &lt;p&gt;如果你希望支持 GeoPython 的开发，可以扫描下面的二维码进行捐助。
-&lt;img alt="" src="https://raw.githubusercontent.com/chinageology/GeoPython/master/img/WeChatQrCode.png"&gt;&lt;/p&gt;</content><category term="Doc"></category><category term="Chinese"></category><category term="中文"></category><category term="文档"></category></entry><entry><title>Home</title><link href="/home.html" rel="alternate"></link><published>2017-11-15T00:00:00+08:00</published><updated>2017-11-15T00:00:00+08:00</updated><author><name>CycleUsyer</name></author><id>tag:None,2017-11-15:/home.html</id><summary type="html">&lt;h1&gt;Welcome to GeoPython&lt;/h1&gt;
-&lt;p&gt;&lt;a href="http://bbs.geopython.com/"&gt;BBS 论坛&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;GeoPython is an application based on Python and designed as a solution for geology related daily work. &lt;strong&gt;It can run on alomost all mainstream operating systems&lt;/strong&gt;, such as Windows 7 SP1, Windows 8, Windows 10, macOS Sierra, macOS High Sierra, Ubuntu Linux, Debian Linux …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Welcome to GeoPython&lt;/h1&gt;
-&lt;p&gt;&lt;a href="http://bbs.geopython.com/"&gt;BBS 论坛&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;GeoPython is an application based on Python and designed as a solution for geology related daily work. &lt;strong&gt;It can run on alomost all mainstream operating systems&lt;/strong&gt;, such as Windows 7 SP1, Windows 8, Windows 10, macOS Sierra, macOS High Sierra, Ubuntu Linux, Debian Linux, Fedora Linux, and alomost all other widely used desktop platforms.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;GeoPython doesn't rely on any other software&lt;/strong&gt;, such as MS Excel or CorelDraw, it can directly transport your data into the plot as vector graphic files and the calculation results into data sheets such as Xlsx or CSV files.&lt;/p&gt;
-&lt;p&gt;It is a &lt;strong&gt;free software&lt;/strong&gt;: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.&lt;/p&gt;
-&lt;p&gt;GeoPython contains both traditional routines and newly developed methods。&lt;/p&gt;
-&lt;h2&gt;简介&lt;/h2&gt;
-&lt;p&gt;GeoPython 是一个基于 Python 实现的开源应用，针对的是地质学研究中的日常用途。由于使用了 Python，天生跨平台天赋加持，所以几乎能运行于所有主流操作系统，比如 Windows 7 SP1, Windows 8, Windows 10, macOS Sierra, macOS High Sierra, Ubuntu Linux, Debian Linux, Fedora Linux 等等几乎全部主流的桌面操作系统。&lt;/p&gt;
-&lt;p&gt;GeoPython 不需依赖任何其他软件，不像 GeoKit 那样依赖特定版本的 32bit 的 Office，也不像 CGDK 那样需要依赖 CorelDRAW 的安装，单独有 GeoPython 一个，就可以实现从原始数据到出矢量图，以及导出各种计算的结果为 Xlsx 或者 CSV 这种表格文件。&lt;/p&gt;
-&lt;p&gt;GeoPython 是一个自由软件:您可以根据自由软件基金会发布的GNU通用公共许可证的条款重新发布或者对其进行修改，但必须也基于同样的 GPLV3（GNU通用公共许可证第三版 ） ，或者更新版本的 GNU General Public License。&lt;/p&gt;
-&lt;p&gt;GeoPython 包含了一些常用的传统方法，也实现了一些近年来新诞生的研究成果。&lt;/p&gt;
-&lt;h1&gt;捐助支持&lt;/h1&gt;
-&lt;p&gt;如果你希望支持 GeoPython 的开发，可以扫描下面的二维码进行捐助。
-&lt;img alt="" src="https://raw.githubusercontent.com/chinageology/GeoPython/master/img/WeChatQrCode.png"&gt;&lt;/p&gt;</content><category term="Doc"></category><category term="English"></category><category term="Chinese"></category></entry><entry><title>Installation</title><link href="/installation.html" rel="alternate"></link><published>2017-11-15T00:00:00+08:00</published><updated>2017-11-15T00:00:00+08:00</updated><author><name>CycleUsyer</name></author><id>tag:None,2017-11-15:/installation.html</id><summary type="html">&lt;h2&gt;Installation&lt;/h2&gt;
+&lt;img alt="" src="https://raw.githubusercontent.com/chinageology/GeoPython/master/img/WeChatQrCode.png"&gt;&lt;/p&gt;</content><category term="Doc"></category><category term="Chinese"></category><category term="中文"></category><category term="文档"></category></entry><entry><title>Installation</title><link href="/installation.html" rel="alternate"></link><published>2017-11-15T00:00:00+08:00</published><updated>2017-11-15T00:00:00+08:00</updated><author><name>CycleUsyer</name></author><id>tag:None,2017-11-15:/installation.html</id><summary type="html">&lt;h2&gt;Installation&lt;/h2&gt;
 &lt;p&gt;GeoPython can be used as a module inside Python, and can also run as a standalone application.&lt;/p&gt;
 &lt;h2&gt;Standalone Application&lt;/h2&gt;
 &lt;p&gt;Packed up executable files are temporarily only provided for Windows and MacOS platform.&lt;/p&gt;
@@ -923,17 +923,7 @@ http://matplotlib.org/api/colors_api.html&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" src="https://raw.githubusercontent.com/chinageology/GeoPython/master/img/UserDefinedXY.png"&gt;&lt;/p&gt;
 &lt;h1&gt;捐助支持&lt;/h1&gt;
 &lt;p&gt;如果你希望支持 GeoPython 的开发，可以扫描下面的二维码进行捐助。
-&lt;img alt="" src="https://raw.githubusercontent.com/chinageology/GeoPython/master/img/WeChatQrCode.png"&gt;&lt;/p&gt;</content><category term="Doc"></category><category term="Chinese"></category><category term="中文"></category><category term="文档"></category></entry><entry><title>About</title><link href="/about.html" rel="alternate"></link><published>2017-04-06T00:00:00+08:00</published><updated>2017-04-06T00:00:00+08:00</updated><author><name>CycleUsyer</name></author><id>tag:None,2017-04-06:/about.html</id><summary type="html">&lt;h1&gt;Welcome!&lt;/h1&gt;
-&lt;p&gt;This site is the official website of GeoPython.
-Pleave leave a message here or open an issue on &lt;a href="https://github.com/chinageology/GeoPython/issues"&gt;github&lt;/a&gt;.
-You can also visit the &lt;a href="https://www.researchgate.net/project/GeoPython"&gt;ResearchGate page&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;For Chinese users, please visit &lt;a href="http://chinageology.com"&gt;ChinaGeology&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;If you find out there is anything you donot like on GeoPython or if you have any …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Welcome!&lt;/h1&gt;
-&lt;p&gt;This site is the official website of GeoPython.
-Pleave leave a message here or open an issue on &lt;a href="https://github.com/chinageology/GeoPython/issues"&gt;github&lt;/a&gt;.
-You can also visit the &lt;a href="https://www.researchgate.net/project/GeoPython"&gt;ResearchGate page&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;For Chinese users, please visit &lt;a href="http://chinageology.com"&gt;ChinaGeology&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;If you find out there is anything you donot like on GeoPython or if you have any idea or function need to be done, just tell us please.&lt;/p&gt;</content><category term="GeoPython"></category><category term="Python"></category></entry><entry><title>Temperary API Ref of GeoPython</title><link href="/temperary-api-ref-of-geopython.html" rel="alternate"></link><published>2017-03-18T16:20:00+08:00</published><updated>2017-03-18T16:20:00+08:00</updated><author><name>CycleUsyer</name></author><id>tag:None,2017-03-18:/temperary-api-ref-of-geopython.html</id><summary type="html">&lt;h1&gt;API Ref of GeoPython&lt;/h1&gt;
+&lt;img alt="" src="https://raw.githubusercontent.com/chinageology/GeoPython/master/img/WeChatQrCode.png"&gt;&lt;/p&gt;</content><category term="Doc"></category><category term="Chinese"></category><category term="中文"></category><category term="文档"></category></entry><entry><title>Temperary API Ref of GeoPython</title><link href="/temperary-api-ref-of-geopython.html" rel="alternate"></link><published>2017-03-18T16:20:00+08:00</published><updated>2017-03-18T16:20:00+08:00</updated><author><name>CycleUsyer</name></author><id>tag:None,2017-03-18:/temperary-api-ref-of-geopython.html</id><summary type="html">&lt;h1&gt;API Ref of GeoPython&lt;/h1&gt;
 &lt;p&gt;created on Sat Dec 17 22:28:24 2016
 @author: cycleuser
 Create Date: 2015-07-13
