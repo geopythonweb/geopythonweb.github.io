@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>GeoPython - Doc</title><link href="/" rel="alternate"></link><link href="/feeds/doc.atom.xml" rel="self"></link><id>/</id><updated>2017-11-15T00:00:00+08:00</updated><entry><title>About</title><link href="/about.html" rel="alternate"></link><published>2017-11-15T00:00:00+08:00</published><updated>2017-11-15T00:00:00+08:00</updated><author><name>CycleUsyer</name></author><id>tag:None,2017-11-15:/about.html</id><summary type="html">&lt;h1&gt;Welcome to GeoPython&lt;/h1&gt;
 &lt;p&gt;&lt;a href="http://bbs.geopython.com/"&gt;BBS 论坛&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://doc.geopython.com/about.html" title=")
-[Functions](http://doc.geopython.com/functions.html"&gt;About&lt;/a&gt;
-&lt;a href="http://doc.geopython.com/milestones.html" title=")
-[Installation](http://doc.geopython.com/installation.html"&gt;Milestones&lt;/a&gt;
-&lt;a href="http://doc.geopython.com/demonstration.html" title=")
-[Download](http://doc.geopython.com/download.html"&gt;Demonstration&lt;/a&gt;
-&lt;a href="http://doc.geopython.com/archives.html&amp;quot;"&gt;Archives&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://doc.geopython.com/about.html" title=")
-[功能列表](http://doc.geopython.com/gong-neng-lie-biao.html"&gt;简要介绍&lt;/a&gt;
-&lt;a href="http://doc.geopython.com/kai-fa-ji-lu.html" title=")
-[安装指南](http://doc.geopython.com/installation.html"&gt;开发记录&lt;/a&gt;
-&lt;a href="http://doc.geopython.com/yan-shi-shi-pin.html" title=")
-[下载链接](http://doc.geopython.com/download.html"&gt;功能演示&lt;/a&gt;
-&lt;a href="http://doc.geopython.com/archives.html&amp;quot;"&gt;存档整理&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://doc.geopython.com/about.html"&gt;About&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://doc.geopython.com/functions.html"&gt;Functions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://doc.geopython.com/milestones.html"&gt;Milestones&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://doc.geopython.com/installation.html"&gt;Installation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://doc.geopython.com/demonstration.html"&gt;Demonstration&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://doc.geopython.com/download.html"&gt;Download&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://doc.geopython.com/archives.html"&gt;Archives&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://doc.geopython.com/about.html"&gt;简要介绍&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://doc.geopython.com/gong-neng-lie-biao.html"&gt;功能列表&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://doc.geopython.com/kai-fa-ji-lu.html"&gt;开发记录&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://doc.geopython.com/installation.html"&gt;安装指南&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://doc.geopython.com/yan-shi-shi-pin.html"&gt;功能演示&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://doc.geopython.com/download.html"&gt;下载链接&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://doc.geopython.com/archives.html"&gt;存档整理&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;GeoPython is an application based on Python and designed as a solution for geology related daily work. &lt;strong&gt;It can run on alomost all mainstream operating systems&lt;/strong&gt;, such as Windows 7 SP1, Windows 8, Windows 10, macOS …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Welcome to GeoPython&lt;/h1&gt;
+&lt;p&gt;GeoPython is an application based on Python and designed as a solution for geology related daily work. &lt;strong&gt;It can run on alomost all mainstream operating systems&lt;/strong&gt;, such as Windows 7 …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Welcome to GeoPython&lt;/h1&gt;
 &lt;p&gt;&lt;a href="http://bbs.geopython.com/"&gt;BBS 论坛&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://doc.geopython.com/about.html" title=")
-[Functions](http://doc.geopython.com/functions.html"&gt;About&lt;/a&gt;
-&lt;a href="http://doc.geopython.com/milestones.html" title=")
-[Installation](http://doc.geopython.com/installation.html"&gt;Milestones&lt;/a&gt;
-&lt;a href="http://doc.geopython.com/demonstration.html" title=")
-[Download](http://doc.geopython.com/download.html"&gt;Demonstration&lt;/a&gt;
-&lt;a href="http://doc.geopython.com/archives.html&amp;quot;"&gt;Archives&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://doc.geopython.com/about.html" title=")
-[功能列表](http://doc.geopython.com/gong-neng-lie-biao.html"&gt;简要介绍&lt;/a&gt;
-&lt;a href="http://doc.geopython.com/kai-fa-ji-lu.html" title=")
-[安装指南](http://doc.geopython.com/installation.html"&gt;开发记录&lt;/a&gt;
-&lt;a href="http://doc.geopython.com/yan-shi-shi-pin.html" title=")
-[下载链接](http://doc.geopython.com/download.html"&gt;功能演示&lt;/a&gt;
-&lt;a href="http://doc.geopython.com/archives.html&amp;quot;"&gt;存档整理&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://doc.geopython.com/about.html"&gt;About&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://doc.geopython.com/functions.html"&gt;Functions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://doc.geopython.com/milestones.html"&gt;Milestones&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://doc.geopython.com/installation.html"&gt;Installation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://doc.geopython.com/demonstration.html"&gt;Demonstration&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://doc.geopython.com/download.html"&gt;Download&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://doc.geopython.com/archives.html"&gt;Archives&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://doc.geopython.com/about.html"&gt;简要介绍&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://doc.geopython.com/gong-neng-lie-biao.html"&gt;功能列表&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://doc.geopython.com/kai-fa-ji-lu.html"&gt;开发记录&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://doc.geopython.com/installation.html"&gt;安装指南&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://doc.geopython.com/yan-shi-shi-pin.html"&gt;功能演示&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://doc.geopython.com/download.html"&gt;下载链接&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://doc.geopython.com/archives.html"&gt;存档整理&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;GeoPython is an application based on Python and designed as a solution for geology related daily work. &lt;strong&gt;It can run on alomost all mainstream operating systems&lt;/strong&gt;, such as Windows 7 SP1, Windows 8, Windows 10, macOS Sierra, macOS High Sierra, Ubuntu Linux, Debian Linux, Fedora Linux, and alomost all other widely used desktop platforms.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;GeoPython doesn't rely on any other software&lt;/strong&gt;, such as MS Excel or CorelDraw, it can directly transport your data into the plot as vector graphic files and the calculation results into data sheets such as Xlsx or CSV files.&lt;/p&gt;
