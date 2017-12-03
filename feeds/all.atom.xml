@@ -18,7 +18,7 @@
 &lt;p&gt;GeoPython  有两种使用方法，可以作为独立的程序运行，也可以作为 Python 下的一个模块（module）来在 Python 解释器下调用。&lt;/p&gt;
 &lt;h2&gt;作为独立程序使用 GeoPython&lt;/h2&gt;
 &lt;p&gt;打包好的可执行文件，目前支持 Windows 和 macOS 两种平台。&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://doc.geopython.com/Download/"&gt;点击这里查看程序文件的下载链接。&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/chinageology/GeoPython/blob/master/Download.md"&gt;点击这里查看程序文件的下载链接。&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;Mac 下的 APP&lt;/h3&gt;
 &lt;p&gt;macOS 下面特别省心，因为开发者本身就用的这个系统。直接下载对应的压缩包，解压缩之后，双击 GeoPython.app 这个文件，就可以看到下面的图形界面了。&lt;/p&gt;
 &lt;p&gt;&lt;img alt="User Interface of the APP on macOS." src="https://raw.githubusercontent.com/chinageology/GeoPython/master/img/MacOSScreenShot.png"&gt;&lt;/p&gt;
@@ -27,7 +27,7 @@
 &lt;p&gt;GeoPython  有两种使用方法，可以作为独立的程序运行，也可以作为 Python 下的一个模块（module）来在 Python 解释器下调用。&lt;/p&gt;
 &lt;h2&gt;作为独立程序使用 GeoPython&lt;/h2&gt;
 &lt;p&gt;打包好的可执行文件，目前支持 Windows 和 macOS 两种平台。&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://doc.geopython.com/Download/"&gt;点击这里查看程序文件的下载链接。&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/chinageology/GeoPython/blob/master/Download.md"&gt;点击这里查看程序文件的下载链接。&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;Mac 下的 APP&lt;/h3&gt;
 &lt;p&gt;macOS 下面特别省心，因为开发者本身就用的这个系统。直接下载对应的压缩包，解压缩之后，双击 GeoPython.app 这个文件，就可以看到下面的图形界面了。&lt;/p&gt;
 &lt;p&gt;&lt;img alt="User Interface of the APP on macOS." src="https://raw.githubusercontent.com/chinageology/GeoPython/master/img/MacOSScreenShot.png"&gt;&lt;/p&gt;
@@ -462,13 +462,13 @@ In the Rose Map function, all data in one data files can be treated as a single 
 &lt;p&gt;GeoPython can be used as a module inside Python, and can also run as a standalone application.&lt;/p&gt;
 &lt;h2&gt;Standalone Application&lt;/h2&gt;
 &lt;p&gt;Packed up executable files are temporarily only provided for Windows and MacOS platform.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://doc.geopython.com/Download/"&gt;Click here to get Download links.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/chinageology/GeoPython/blob/master/Download.md"&gt;Click here to get Download links.&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;Mac APP&lt;/h3&gt;
 &lt;p&gt;On macOS, everything is extremely easy to use GeoPython …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Installation&lt;/h2&gt;
 &lt;p&gt;GeoPython can be used as a module inside Python, and can also run as a standalone application.&lt;/p&gt;
 &lt;h2&gt;Standalone Application&lt;/h2&gt;
 &lt;p&gt;Packed up executable files are temporarily only provided for Windows and MacOS platform.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://doc.geopython.com/Download/"&gt;Click here to get Download links.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/chinageology/GeoPython/blob/master/Download.md"&gt;Click here to get Download links.&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;Mac APP&lt;/h3&gt;
 &lt;p&gt;On macOS, everything is extremely easy to use GeoPython. Just download and unzip the file, then double click on the GeoPython.app file, you will find the APP available as the following picture shows.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="User Interface of the APP on macOS." src="https://raw.githubusercontent.com/chinageology/GeoPython/master/img/MacOSScreenShot.png"&gt;&lt;/p&gt;
