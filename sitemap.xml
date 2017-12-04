@@ -5,30 +5,37 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2017-12-03T23:33:43-00:00</lastmod>
+<lastmod>2017-12-04T15:16:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2017-12-03T23:33:43-00:00</lastmod>
+<lastmod>2017-12-04T15:16:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2017-12-03T23:33:43-00:00</lastmod>
+<lastmod>2017-12-04T15:16:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2017-12-03T23:33:43-00:00</lastmod>
+<lastmod>2017-12-04T15:16:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
+</url>
+
+<url>
+<loc>/download.html</loc>
+<lastmod>2017-12-05T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
 </url>
 
 <url>
@@ -47,13 +54,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/demonstration.html</loc>
-<lastmod>2017-11-15T00:00:00+08:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.7</priority>
-</url>
-
-<url>
-<loc>/download.html</loc>
 <lastmod>2017-11-15T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
@@ -110,7 +110,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/category/doc.html</loc>
-<lastmod>2017-11-15T00:00:00+08:06</lastmod>
+<lastmod>2017-12-05T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
@@ -124,7 +124,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/tag/doc.html</loc>
-<lastmod>2017-11-15T00:00:00+08:06</lastmod>
+<lastmod>2017-12-05T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
@@ -145,21 +145,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/tag/chinese.html</loc>
-<lastmod>2017-11-15T00:00:00+08:06</lastmod>
+<lastmod>2017-12-05T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
 <loc>/tag/english.html</loc>
-<lastmod>2017-11-15T00:00:00+08:06</lastmod>
+<lastmod>2017-12-05T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
 <loc>/author/cycleusyer.html</loc>
-<lastmod>2017-11-15T00:00:00+08:06</lastmod>
+<lastmod>2017-12-05T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
