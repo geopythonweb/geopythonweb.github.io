@@ -58,9 +58,10 @@
 &lt;h3&gt;Mac APP 更新升级方法&lt;/h3&gt;
 &lt;p&gt;把同一目录下的 &lt;strong&gt;UpdateGeoPython.sh&lt;/strong&gt; 这个文件拖到终端（terminal）里面运行，就可以把 GeoPython.app 里面内置的 GeoPython 升级到最新版本了。千万别乱动这个文件同一目录下的任何其他内容，除非你很有信心能搞定哈，那样随你咯。&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Update the APP on macOS." src="https://raw.githubusercontent.com/chinageology/GeoPython/master/img/OSXUpdate.png"&gt;&lt;/p&gt;
-&lt;h3&gt;Windows 系统下的 EXE&lt;/h3&gt;
+&lt;h3&gt;Windows 系统下的打包文件&lt;/h3&gt;
 &lt;h4&gt;Windows 8/8.1/10 用户&lt;/h4&gt;
 &lt;p&gt;这几个比较新的 Windows 系统的用户也很省心，也是下载之后解压缩，然后在文件夹里面双击 &lt;strong&gt;RunGeoPython.bat&lt;/strong&gt; 就可以了。记住一定不要删除解压出来的文件夹里面的任何文件，那都是程序用得上的，一旦删除了就可能导致程序无法运行了。&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://raw.githubusercontent.com/chinageology/GeoPython/master/img/RunWin.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt="User Interface of the EXE on Windows." src="https://raw.githubusercontent.com/chinageology/GeoPython/master/img/ScreenShot.png"&gt;&lt;/p&gt;
 &lt;h4&gt;Windows 7 用户&lt;/h4&gt;
 &lt;p&gt;刚才上面那张图实际上是在 Windows7 系统上面运行 GeoPython 的截图。不过 Windows7 系统用户需要先安装几个补丁，才能运行 GeoPython。&lt;/p&gt;
@@ -477,9 +478,10 @@ In the Rose Map function, all data in one data files can be treated as a single 
 &lt;h3&gt;Mac APP Update&lt;/h3&gt;
 &lt;p&gt;Drag the &lt;strong&gt;UpdateGeoPython.sh&lt;/strong&gt; file into your terminal and hit the Enter key to run it. It will update the GeoPython inside your GeoPython.app file. Remember that never modify any files directly under the same folder unless you are an expert on dealing with Python.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Update the APP on macOS." src="https://raw.githubusercontent.com/chinageology/GeoPython/master/img/OSXUpdate.png"&gt;&lt;/p&gt;
-&lt;h3&gt;Windows EXE&lt;/h3&gt;
+&lt;h3&gt;Windows Pack&lt;/h3&gt;
 &lt;h4&gt;Windows 8/8.1/10 Users&lt;/h4&gt;
 &lt;p&gt;On these modern Windows platforms, everything is also extremely easy to use GeoPython. Just download and unzip the file, then double click on the &lt;strong&gt;RunGeoPython.bat&lt;/strong&gt; file, and make sure that you don't delete any file form the unziped folder because they are all required by the program, then you will find the APP available as the following picture shows.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://raw.githubusercontent.com/chinageology/GeoPython/master/img/RunWin.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt="User Interface of the EXE on Windows." src="https://raw.githubusercontent.com/chinageology/GeoPython/master/img/ScreenShot.png"&gt;&lt;/p&gt;
 &lt;h4&gt;Windows 7 Users&lt;/h4&gt;
 &lt;p&gt;Of corse, you must find that the screen shot above is actrually from a Windows 7  virtual machine.&lt;/p&gt;
